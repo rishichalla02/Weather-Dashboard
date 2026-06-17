@@ -140,7 +140,7 @@ header {
   background-color: var(--accent-color);
   color: white;
   border: none;
-  padding: 0 16px;
+  padding: 0 9px;
   cursor: pointer;
   transition: background-color var(--transition-speed);
 }

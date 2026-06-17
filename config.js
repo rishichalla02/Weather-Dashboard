@@ -1,0 +1,3 @@
+const CONFIG = {
+    WEATHER_API_KEY: "e730b365354e76fd89c74f9e7a497d29"
+};
